@@ -1,10 +1,10 @@
-package main
+package deptest
 
 import (
 	"fmt"
 	s "github.com/naoina/go-stringutil"
 )
 
-func main() {
+func Hello() {
 	fmt.Println(s.ToSnakeCase("HelloWorld"))
 }
