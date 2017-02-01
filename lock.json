@@ -1,9 +1,10 @@
 {
-    "memo": "15f5d54b2c127dfd69d3790685501f7d93d6f28707f9980cdf7ca5b214145a6e",
+    "memo": "7e8f80d7fa9c0aea42568ecb2874188db0e3fbdbef9a7fc8290dd747da85f558",
     "projects": [
         {
             "name": "github.com/naoina/go-stringutil",
-            "revision": "7cf1d11fe9d95057d8c12bfd159462ef49cdbcbd",
+            "version": "v0.1.0",
+            "revision": "6b638e95a32d0c1131db0e7fe83775cbea4a0d0b",
             "packages": [
                 "."
             ]

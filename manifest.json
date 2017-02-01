@@ -1,7 +1,7 @@
 {
     "dependencies": {
         "github.com/naoina/go-stringutil": {
-            "revision": "7cf1d11fe9d95057d8c12bfd159462ef49cdbcbd"
+            "branch": "master"
         }
     }
 }
